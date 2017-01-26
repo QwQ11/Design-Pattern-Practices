@@ -1,0 +1,8 @@
+C:\Users\Administrator\AppData\Local\Temporary Projects\Ducks\bin\Debug\Ducks.exe.config
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\Ducks\bin\Debug\Ducks.exe.config
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\bin\Debug\Ducks.exe.config
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\bin\Debug\Ducks.exe
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\bin\Debug\Ducks.pdb
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\obj\Debug\Ducks.csprojResolveAssemblyReference.cache
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\obj\Debug\Ducks.exe
+D:\Users\Administrator\我的文档\Visual Studio 2015\Projects\Design Pattern Exercises\Chapter 1\Ducks\Ducks\obj\Debug\Ducks.pdb
